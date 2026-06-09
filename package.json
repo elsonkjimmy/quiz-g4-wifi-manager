@@ -1,6 +1,6 @@
 {
   "name": "@elsonkjimmy/quiz-g4-wifi-manager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A react-native implementation for viewing and connecting to Wifi networks on Android and iOS devices.",
   "types": "lib/types/index.d.ts",
   "main": "src/index.js",

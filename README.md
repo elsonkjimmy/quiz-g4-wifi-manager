@@ -1,18 +1,13 @@
-# react-native-wifi-reborn
+# @elsonkjimmy/quiz-g4-wifi-manager
 
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](./LICENSE)
-[![Current npm package version](http://img.shields.io/npm/v/react-native-wifi-reborn.svg)](https://npmjs.org/package/react-native-wifi-reborn)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/JuanSeBestia/react-native-wifi-reborn/graphs/commit-activity)
-[![Semantic Release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release#how-does-it-work)
-[![Downloads](http://img.shields.io/npm/dm/react-native-wifi-reborn.svg)](https://npmjs.org/package/react-native-wifi-reborn)
-[![Total downloads](http://img.shields.io/npm/dt/react-native-wifi-reborn.svg?label=total%20downloads)](https://npmjs.org/package/react-native-wifi-reborn)
-[![Follow @JuanSeBestia](https://img.shields.io/twitter/follow/JuanSeBestia.svg?label=Follow%20@JuanSeBestia)](https://twitter.com/intent/follow?screen_name=JuanSeBestia)
+[![Current npm package version](http://img.shields.io/npm/v/@elsonkjimmy/quiz-g4-wifi-manager.svg)](https://npmjs.org/package/@elsonkjimmy/quiz-g4-wifi-manager)
 
-This project is based on the no longer maintained [react-native-wifi](https://github.com/robwalkerco/react-native-wifi).
+This project is a fork of [react-native-wifi-reborn](https://github.com/JuanSeBestia/react-native-wifi-reborn), customized for the Quiz-G4 project.
 
 ## Getting started
 
-`$ npm install react-native-wifi-reborn`
+`$ npm install @elsonkjimmy/quiz-g4-wifi-manager`
 
 ### ⚪iOS requirements
 

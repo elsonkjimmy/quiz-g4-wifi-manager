@@ -1,7 +1,7 @@
 {
   "name": "@elsonkjimmy/quiz-g4-wifi-manager",
-  "version": "1.0.2",
-  "description": "A react-native implementation for viewing and connecting to Wifi networks on Android and iOS devices.",
+  "version": "1.2.3",
+  "description": "A customized version of react-native-wifi-reborn for the Quiz-G4 project.",
   "types": "lib/types/index.d.ts",
   "main": "src/index.js",
   "scripts": {
@@ -30,9 +30,10 @@
     "android",
     "ios",
     "wifi",
-    "connect"
+    "connect",
+    "quiz-g4"
   ],
-  "author": "",
+  "author": "elsonkjimmy",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/elsonkjimmy/quiz-g4-wifi-manager.git"
@@ -42,9 +43,9 @@
   },
   "dependencies": {},
   "bugs": {
-    "url": "https://github.com/JuanSeBestia/react-native-wifi-reborn/issues"
+    "url": "https://github.com/elsonkjimmy/quiz-g4-wifi-manager/issues"
   },
-  "homepage": "https://github.com/JuanSeBestia/react-native-wifi-reborn#readme",
+  "homepage": "https://github.com/elsonkjimmy/quiz-g4-wifi-manager#readme",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.8.3",
